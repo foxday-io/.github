@@ -6,4 +6,4 @@
 4. CMS Capstone project by Atreyu, Cam, Cruse, Daniel
 
 ## Notice of Non-Affiliation and Disclaimer
-We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Rollins College, or any of its subsidiaries or its affiliates. The official Rollins College fox day website can be found at here.
+We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Rollins College, or any of its subsidiaries or its affiliates. The official Rollins College fox day website can be found at [here.](https://www.rollins.edu/fox-day/)
