@@ -2,7 +2,7 @@
 ## About
 1. vote for when u think foxday is - using AI to predict foxday
 2. anonymous social media platform - getting the conversations going on campus
-3. sms based newsletter - some sort of fox day newsletter             
+3. sms based newsletter - some sort of fox day newsletter         
 CMS Capstone project by Atreyu, Cam, Cruse, Daniel
 
 ## Notice of Non-Affiliation and Disclaimer
