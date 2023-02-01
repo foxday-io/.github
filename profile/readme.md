@@ -1,4 +1,4 @@
-foxday.io 🦊
+# foxday.io 🦊
 ## About
 1. vote for when u think foxday is - using AI to predict foxday
 2. anonymous social media platform - getting the conversations going on campus
